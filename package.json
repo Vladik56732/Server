@@ -1,0 +1,16 @@
+{
+    "dependencies": {
+        "cross": "^1.0.0",
+        "cross-env": "^7.0.3",
+        "env": "^0.0.2"
+    },
+    "name": "node-js",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "test": "node ./lessons/process.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "description": ""
+}
