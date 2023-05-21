@@ -8,7 +8,7 @@
     "version": "1.0.0",
     "main": "index.js",
     "scripts": {
-        "test": "node ./lessons/process.js"
+        "start": "node process.js"
     },
     "author": "",
     "license": "ISC",
